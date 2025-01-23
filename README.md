@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML where the innerText property of a DOM element returns an empty string even though the element contains text, if the element's display property is set to 'none'. The bug.html file shows the bug, while the solution.html offers a solution.
